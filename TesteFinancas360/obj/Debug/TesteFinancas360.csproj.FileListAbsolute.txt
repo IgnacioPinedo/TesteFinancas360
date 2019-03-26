@@ -1,0 +1,7 @@
+C:\Users\Ignacio\source\repos\TesteFinancas360\TesteFinancas360\bin\Debug\TesteFinancas360.exe.config
+C:\Users\Ignacio\source\repos\TesteFinancas360\TesteFinancas360\bin\Debug\TesteFinancas360.exe
+C:\Users\Ignacio\source\repos\TesteFinancas360\TesteFinancas360\bin\Debug\TesteFinancas360.pdb
+C:\Users\Ignacio\source\repos\TesteFinancas360\TesteFinancas360\obj\Debug\TesteFinancas360.csprojAssemblyReference.cache
+C:\Users\Ignacio\source\repos\TesteFinancas360\TesteFinancas360\obj\Debug\TesteFinancas360.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\source\repos\TesteFinancas360\TesteFinancas360\obj\Debug\TesteFinancas360.exe
+C:\Users\Ignacio\source\repos\TesteFinancas360\TesteFinancas360\obj\Debug\TesteFinancas360.pdb
